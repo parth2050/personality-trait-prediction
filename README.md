@@ -1,5 +1,10 @@
 # Youtube-Personality-Traits_detection
 
+## Introduction
+
+This project aims to decode personality traits through the analysis of text extracted from YouTube videos. The research utilizes a combination of machine learning algorithms and natural language processing techniques to infer personality characteristics such as agreeableness, neuroticism, conscientiousness, extroversion, and openness to new experiences from video captions.
+
+
 ## Usage
 
 1. Install requirements.txt <br>
@@ -9,24 +14,8 @@
 4. You'll be redirect to localhost:127.0.0.1:5500/
 5. Enter any YouTube Link to Analyze the video
 
-   
-## Introduction
 
-This project aims to decode personality traits through the analysis of text extracted from YouTube videos. The research utilizes a combination of machine learning algorithms and natural language processing techniques to infer personality characteristics such as agreeableness, neuroticism, conscientiousness, extroversion, and openness to new experiences from video captions.
 
-## Authors
-
-1. Aanal Shah
-2. Parth Patel
-3. Kavya Gandhi
-
-## Contact Information
-
-- Aanal Shah: aanalmayurbhaishah@trentu.ca
-
-- Parth Patel: partpatel@trentu.ca
-
-- Kavya Gandhi: kavyagandhi@trentu.ca
 
 ## Abstract
 
@@ -57,12 +46,24 @@ Python 3.x
 Libraries: scikit-learn, TensorFlow, NLTK, Pandas, NumPy, Flask, Transformers, Hugging Face, Matplotlib, etc.
 
 
-
-
 Clone the repository to your local machine.
 Install the required dependencies using pip or conda.
 Navigate to the code directory and run the relevant scripts for data preprocessing, model building, and analysis.
 Refer to the project report for detailed instructions and insights.
+
+## Authors
+
+1. Aanal Shah
+2. Parth Patel
+3. Kavya Gandhi
+
+## Contact Information
+
+- Aanal Shah: aanalmayurbhaishah@trentu.ca
+
+- Parth Patel: partpatel@trentu.ca
+
+- Kavya Gandhi: kavyagandhi@trentu.ca
 
 ## License
 
